@@ -1,4 +1,4 @@
-// task 1. 7 kyu
+// 1
 // Your task is to remove all duplicate words from a
 // string, leaving only single (first) words entries.
 function removeDuplicateWords(s) {
