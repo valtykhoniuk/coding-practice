@@ -1,1 +1,1 @@
-# coding-practice
+# js-practice-codewars
