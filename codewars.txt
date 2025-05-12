@@ -1,0 +1,20 @@
+11-12 April 
+1) Disemvowel Trolls - 7kyu
+2) List Filtering - 7kyu
+3) Create Phone Number - 6kyu
+4) Regex validate PIN code - 7kyu
+5) Remove anchor from URL - 7kyu
+6) FIXME: Replace all dots - 7 kyu
+7) String cleaning - 8kyu
+8) Remove duplicate words - 7kyu
+9) Digits explosion - 7kyu
+10) The old switcheroo - 7kyu
+11) Nickname Generator - 7kyu
+12) Regexp Basics - is it a vowel? - 7kyu
+
+12 May
+1) Multiply - 8kyu
+2) Square Every Digit - 7kyu
+3) Highest and Lowest - 7kyu
+4) Descending Order - 7kyu
+5) Get the Middle Character - 7kyu
