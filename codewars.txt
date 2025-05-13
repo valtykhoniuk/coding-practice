@@ -24,3 +24,5 @@
 2) Isograms - 7kyu
 3) Exes and Ohs - 7kyu
 4) Jaden Casing Strings - 7kyu
+5) Shortest Word - 7kyu
+6) Complementary DNA - 7kyu
