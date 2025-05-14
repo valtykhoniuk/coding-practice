@@ -32,3 +32,5 @@
 2) Sum of two lowest positive integers - 7kyu
 3) Beginner Series #3 Sum of Numbers - 7kyu
 4) Friend or Foe? - 7kyu
+5) Two to One - 7kyu
+6) Categorize New Member - 7kyu
