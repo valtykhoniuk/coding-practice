@@ -1,4 +1,4 @@
-11-12 April 
+11-12 April 2025
 1) Disemvowel Trolls - 7kyu
 2) List Filtering - 7kyu
 3) Create Phone Number - 6kyu
@@ -12,17 +12,23 @@
 11) Nickname Generator - 7kyu
 12) Regexp Basics - is it a vowel? - 7kyu
 
-12 May
+12 May 2025
 1) Multiply - 8kyu
 2) Square Every Digit - 7kyu
 3) Highest and Lowest - 7kyu
 4) Descending Order - 7kyu
 5) Get the Middle Character - 7kyu
 
-13 May
+13 May 2025
 1) Mumbling - 7kyu
 2) Isograms - 7kyu
 3) Exes and Ohs - 7kyu
 4) Jaden Casing Strings - 7kyu
 5) Shortest Word - 7kyu
 6) Complementary DNA - 7kyu
+
+14 May 2025
+1) Credit Card Mask - 7kyu
+2) Sum of two lowest positive integers - 7kyu
+3) Beginner Series #3 Sum of Numbers - 7kyu
+4) Friend or Foe? - 7kyu
