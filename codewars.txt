@@ -34,3 +34,9 @@
 4) Friend or Foe? - 7kyu
 5) Two to One - 7kyu
 6) Categorize New Member - 7kyu
+
+15 May 2025
+1) String ends with? - 7kyu
+2) Find the next perfect square! - 7kyu
+3) Binary Addition - 7kyu
+4) Growth of a Population - 7kyu
