@@ -40,3 +40,5 @@
 2) Find the next perfect square! - 7kyu
 3) Binary Addition - 7kyu
 4) Growth of a Population - 7kyu
+5) Sum of odd numbers - 7kyu
+6) Ones and Zeros - 7kyu
