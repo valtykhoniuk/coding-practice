@@ -47,3 +47,9 @@
 1) Stop gninnipS My sdroW! - 6kyu
 2) Who likes it? - 6kyu
 3) Find the odd int - 6kyu
+
+17 May 2025
+1) Array.diff - 6kyu
+2) Sum of Digits / Digital Root - 6kyu
+3) Bit Counting - 6kyu
+4) Find The Parity Outlier - 6kyu
