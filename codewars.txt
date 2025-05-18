@@ -58,3 +58,6 @@
 1) Counting Duplicates - 6kyu
 2) Duplicate Encoder - 6kyu
 3) Take a Ten Minutes Walk - 6kyu
+4) Replace With Alphabet Position - 6kyu
+5) Persistent Bugger. - 6kyu
+6) Does my number look big in this? - 6kyu
