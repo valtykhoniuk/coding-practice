@@ -66,3 +66,5 @@
 1) Moving Zeros To The End - 5kyu
 2) Simple Pig Latin - 5kyu
 3) Human Readable Time - 5kyu
+4) Directions Reduction - 5kyu
+5) Сalculating with Functions - 5kyu
