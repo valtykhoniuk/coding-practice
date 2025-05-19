@@ -61,3 +61,8 @@
 4) Replace With Alphabet Position - 6kyu
 5) Persistent Bugger. - 6kyu
 6) Does my number look big in this? - 6kyu
+
+19 May 2025
+1) Moving Zeros To The End - 5kyu
+2) Simple Pig Latin - 5kyu
+3) Human Readable Time - 5kyu
