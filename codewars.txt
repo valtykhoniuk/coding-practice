@@ -76,3 +76,4 @@
 
 21 May 2025
 1) Pete, the baker - 5kyu
+2) First non-repeating character - 5kyu
