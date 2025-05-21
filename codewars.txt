@@ -73,3 +73,6 @@
 1) Rot13 - 5kyu
 2) The Hashtag Generator - 5kyu
 3) Maximum subarray sum - 5kyu
+
+21 May 2025
+1) Pete, the baker - 5kyu
