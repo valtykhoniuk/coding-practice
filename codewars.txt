@@ -84,3 +84,5 @@
 24 May 2025
 1) String incrementer - 5kyu
 2) Scramblies - 5kyu
+3) Can you get the loop? - 5kyu
+4) Pick peaks - 5kyu
