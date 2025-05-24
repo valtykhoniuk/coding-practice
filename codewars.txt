@@ -80,3 +80,7 @@
 
 23 May 2025
 1) Weight for weight - 5kyu
+
+24 May 2025
+1) String incrementer - 5kyu
+2) Scramblies - 5kyu
