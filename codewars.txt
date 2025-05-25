@@ -92,3 +92,4 @@
 2) PaginationHelper - 5kyu
 3) Count IP Addresses - 5kyu
 4) Sum of Pairs - 5kyu
+5) Gap in Primes - 5kyu
