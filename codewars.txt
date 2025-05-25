@@ -90,3 +90,5 @@
 25 May 2025
 1) Integers: Recreation One - 5kyu
 2) PaginationHelper - 5kyu
+3) Count IP Addresses - 5kyu
+4) Sum of Pairs - 5kyu
