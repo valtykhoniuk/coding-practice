@@ -86,3 +86,7 @@
 2) Scramblies - 5kyu
 3) Can you get the loop? - 5kyu
 4) Pick peaks - 5kyu
+
+25 May 2025
+1) Integers: Recreation One - 5kyu
+2) PaginationHelper - 5kyu
