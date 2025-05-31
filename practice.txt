@@ -6,4 +6,5 @@
 - DB lesson 10
 - DB lesson 09 : task
 - DB lesson 10 : task
-- JavaScript - Event Loop | macro/micro tasks 
+- Event Loop | macro/micro tasks 
+- Promises, async / await
