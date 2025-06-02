@@ -13,3 +13,6 @@
 - Done roadmap [1.x, 2.x]
 - Flexbox theory+game
 - Grid theory+game
+
+2 June 2025
+- Done roadmap [3.x except 3.6, 3.8]
