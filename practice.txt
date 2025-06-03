@@ -17,3 +17,6 @@
 2 June 2025
 - Done roadmap [3.x except 3.6, 3.8]
 - Done roadmap [4.1 - 4.6]
+
+3 June 2025
+- Done roadmap [4.7 - 4.10]
