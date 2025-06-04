@@ -22,3 +22,6 @@
 - Done roadmap [4.7 - 4.10]
 - Done roadmap [5.x]
 - Done roadmap [6.x]
+
+4 June 2025
+- Done roadmap [7.1 - 7.5]
