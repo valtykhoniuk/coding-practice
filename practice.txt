@@ -32,3 +32,7 @@
 6 June 2025
 - Tailwind Trainer [4.1, 4.2]
 - Context API
+
+9 June 2025
+- DB lesson 09 : redoing task
+- DB lesson 10 : redoing task
