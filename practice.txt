@@ -36,3 +36,6 @@
 9 June 2025
 - DB lesson 09 : redoing task
 - DB lesson 10 : redoing task
+
+14 June 2025
+- interview preparing: chagpt -> html[1..3]
