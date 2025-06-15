@@ -43,3 +43,4 @@
 
 15 June 2025
 - greatfrontend: introduction, overview
+- greatfrontend: todo [1..3]
