@@ -49,3 +49,7 @@
 - greatfrontend: interview playbook (all articles)
 - DB lesson 11 
 - DB lesson 11 : task
+
+17 June 2025
+- DB lesson 12
+- DB lesson 12 : task
