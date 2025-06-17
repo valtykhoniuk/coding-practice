@@ -53,3 +53,4 @@
 17 June 2025
 - DB lesson 12
 - DB lesson 12 : task
+- greatfrontend: GFE 75 -> javascript functions [1..3]
