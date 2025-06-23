@@ -63,3 +63,7 @@
 
 22 June 2025
 - greatfrontend: GFE 75 -> javascript functions [9..11]
+
+23 June 2025
+- greatfrontend: GFE 75 -> javascript functions [12]
+- greatfrontend: GFE 75 -> algorithmic functions [1..3]
