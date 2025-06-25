@@ -72,4 +72,4 @@
 - greatfrontend: GFE 75 -> algorithmic functions [4..5]
 
 24 June 2025
-- greatfrontend: GFE 75 -> algorithmic functions [6..7]
+- greatfrontend: GFE 75 -> algorithmic functions [6..8]
