@@ -89,3 +89,6 @@ MOVING BREAK :)
 
 10 July 2025
 - DevOps: lesson 3
+
+11 July 2025
+- greatfrontend: GFE 75 -> algorithmic functions [13]
