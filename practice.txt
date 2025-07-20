@@ -108,3 +108,4 @@ MOVING BREAK :)
 
 20 July 2025
 - greatfrontend: GFE 75 -> user interface coding [1..2]
+- DevOps: lesson 5
