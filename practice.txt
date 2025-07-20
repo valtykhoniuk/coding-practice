@@ -105,3 +105,6 @@ MOVING BREAK :)
 
 17 July 2025
 - greatfrontend: GFE 75 -> algorithmic functions [19..20]
+
+20 July 2025
+- greatfrontend: GFE 75 -> user interface coding [1..2]
