@@ -116,3 +116,6 @@ MOVING BREAK :)
 23 July 2025
 - greatfrontend: GFE 75 -> user interface coding [4]
 - greatfrontend: quiz [1..6]
+
+24 July 2025
+- greatfrontend: quiz [7..13]
