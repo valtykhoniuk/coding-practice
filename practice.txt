@@ -127,3 +127,6 @@ MOVING BREAK :)
 29 July 2025
 - greatfrontend: quiz [17..18]
 - DevOps: lesson 7
+
+4 August 2025
+- DevOps: lesson 10
