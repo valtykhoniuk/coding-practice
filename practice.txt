@@ -129,10 +129,14 @@ MOVING BREAK :)
 - DevOps: lesson 7
 
 4 August 2025
-- DevOps: lesson 10
+- DevOps: lesson 8
 
 6 August 2025
 - interview watching: https://youtu.be/UjxNIVRlvKU?si=f1lagkhG2-WmXuW1
 
 8 August 2025
-- interview watching
+- interview watching: https://www.youtube.com/watch?v=Y1SekvuZ3M4
+
+10 August 2025
+- interview watching: https://youtu.be/A2O_x6kG35c?si=WeibjvQJ4U5U06nW
+- DevOps: lesson 9
