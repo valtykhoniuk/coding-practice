@@ -140,3 +140,7 @@ MOVING BREAK :)
 10 August 2025
 - interview watching: https://youtu.be/A2O_x6kG35c?si=WeibjvQJ4U5U06nW
 - DevOps: lesson 9
+
+13 August 2025
+- git_questions learning
+- DevOps: lesson 10 started
