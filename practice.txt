@@ -151,5 +151,8 @@ MOVING BREAK :)
 17 August 2025
 - DevOps: lesson 11
 
-Au
-- interview watching: https://youtu.be/_8qr7dK4A2g?si=_101Tuzv_MktWZIG
+24 August 2025
+-Devops: lesson 12
+
+
+todo: - interview watching: https://youtu.be/_8qr7dK4A2g?si=_101Tuzv_MktWZIG
