@@ -156,5 +156,6 @@ MOVING BREAK :)
 
 28 August 2025
 - greatfrontend: quiz [19..26]
+- livecoding-practice: [1..5]
 
 todo: - interview watching: https://youtu.be/_8qr7dK4A2g?si=_101Tuzv_MktWZIG
