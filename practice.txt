@@ -155,6 +155,6 @@ MOVING BREAK :)
 -Devops: lesson 12
 
 28 August 2025
-- greatfrontend: quiz [19..23]
+- greatfrontend: quiz [19..26]
 
 todo: - interview watching: https://youtu.be/_8qr7dK4A2g?si=_101Tuzv_MktWZIG
