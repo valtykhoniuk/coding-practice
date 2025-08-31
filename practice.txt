@@ -162,6 +162,9 @@ MOVING BREAK :)
 - livecoding-practice: [6..14]
 
 31 August 2025
-- livecoding-practice: [16..17]
+- livecoding-practice: [16..19]
+
+1 September 2025
+- - livecoding-practice: [20]
 
 todo: - interview watching: https://youtu.be/_8qr7dK4A2g?si=_101Tuzv_MktWZIG
