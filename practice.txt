@@ -170,4 +170,13 @@ MOVING BREAK :)
 2 September 2025
 - livecoding-practice: [22..25]
 
+4 September 2025
+- livecoding-practice: [26..30]
+
+6 September 2025
+- livecoding-practice: [31..45]
+
+7 September 2025
+- livecoding-practice: [46..50]
+
 todo: - interview watching: https://youtu.be/_8qr7dK4A2g?si=_101Tuzv_MktWZIG
