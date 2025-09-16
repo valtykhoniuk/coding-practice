@@ -185,4 +185,7 @@ MOVING BREAK :)
 14 September 
 - practicing QA/techical tasks
 
+16 September
+- Advanced Frontend with React.js: git + sprint 1
+
 todo: - interview watching: https://youtu.be/_8qr7dK4A2g?si=_101Tuzv_MktWZIG
