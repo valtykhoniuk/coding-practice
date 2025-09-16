@@ -186,6 +186,9 @@ MOVING BREAK :)
 - practicing QA/techical tasks
 
 16 September
-- Advanced Frontend with React.js: git + sprint 1
+- Advanced Frontend with React.js: git + sprint 1 (part 1/2)
+
+17 September
+- Advanced Frontend with React.js: git + sprint 1 (part 2/2)
 
 todo: - interview watching: https://youtu.be/_8qr7dK4A2g?si=_101Tuzv_MktWZIG
