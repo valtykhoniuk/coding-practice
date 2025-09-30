@@ -206,4 +206,7 @@ MOVING BREAK :)
 28 September
 - Advanced Frontend with React.js: sprint 4
 
+30 September
+- Advanced Frontend with React.js: sprint 5
+
 todo: - interview watching: https://youtu.be/_8qr7dK4A2g?si=_101Tuzv_MktWZIG
