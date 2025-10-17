@@ -233,4 +233,6 @@ MOVING BREAK :)
 16 October
 - Questions 1
 
-todo: - interview watching: https://youtu.be/_8qr7dK4A2g?si=_101Tuzv_MktWZIG
+17 October
+- Advanced Frontend with React.js: sprint 9 tasks
+- Advanced Frontend with React.js: sprint 10
