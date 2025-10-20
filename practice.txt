@@ -240,4 +240,7 @@ MOVING BREAK :)
 19 October
 - Advanced Frontend with React.js: sprint 10 tasks
 
+20 October
+- Questions 2: 1,2
+
 todo: Advanced Frontend with React.js: sprint 10 + test, tasks
