@@ -243,4 +243,8 @@ MOVING BREAK :)
 20 October
 - Questions 2: 1,2
 
+21 October
+- Questions 2: 3, 4, 5, 6, 7
+- Videos: 1, 2
+
 todo: Advanced Frontend with React.js: sprint 10 + test, tasks
