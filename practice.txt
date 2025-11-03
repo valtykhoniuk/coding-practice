@@ -259,8 +259,9 @@ MOVING BREAK :)
 - Questions 3: 3, 4, 5
 
 1 November
-- Advanced Frontend with React.js: sprint 13 theory, task
-- Advanced Frontend with React.js: sprint 14 theory, task
+- Advanced Frontend with React.js: sprint 13 theory, test
+- Advanced Frontend with React.js: sprint 14 theory, test
 - Questions
 
-todo: Advanced Frontend with React.js: sprint 10 + test, tasks
+2 November
+- Advanced Frontend with React.js: sprint 13 task
