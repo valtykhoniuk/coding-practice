@@ -268,3 +268,6 @@ MOVING BREAK :)
 
 3 November
 - Advanced Frontend with React.js: sprint 14 task
+
+5 November
+- project jokes: step 1
